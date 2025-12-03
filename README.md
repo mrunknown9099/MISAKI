@@ -1,4 +1,4 @@
-# 🎵 CREEPER Bot
+# 🎵 MISAKI Bot
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-brightgreen)
@@ -9,9 +9,9 @@
 
 ---
 
-## 📖 About CREEPER Bot
+## 📖 About MISAKI Bot
 
-CREEPER is a feature-rich Discord music bot designed to provide seamless audio entertainment across multiple servers simultaneously. Built with Python and Discord.py, it offers high-quality music streaming from various platforms with an easy-to-use interface and powerful control features.
+MISAKI is a feature-rich Discord music bot designed to provide seamless audio entertainment across multiple servers simultaneously. Built with Python and Discord.py, it offers high-quality music streaming from various platforms with an easy-to-use interface and powerful control features.
 
 ### ✨ Key Features
 
@@ -29,7 +29,7 @@ CREEPER is a feature-rich Discord music bot designed to provide seamless audio e
 
 ---
 
-## 🎯 What Makes CREEPER Special?
+## 🎯 What Makes MISAKI Special?
 
 ### 🎮 Interactive Music Player
 - Play/Pause, Skip, Previous, Loop, Shuffle
@@ -181,7 +181,7 @@ Each server gets:
 
 ## 🔒 Privacy & Security
 
-CREEPER Bot respects your privacy:
+MISAKI Bot respects your privacy:
 - No personal data collection
 - Server data isolation
 - No cross-server data sharing
@@ -194,7 +194,7 @@ See [Privacy Policy](PRIVACY_POLICY.md) and [Terms of Service](TERMS_OF_SERVICE.
 
 ## 🛠️ Developer Information
 
-**Bot Name**: CREEPER  
+**Bot Name**: MISAKI  
 **Version**: 1.0.0  
 **Language**: Python  
 **Status**: Active Development  
@@ -233,7 +233,7 @@ For questions, issues, or feature requests:
 
 ## ⚠️ Disclaimer
 
-CREEPER Bot is provided "as is" without warranties. The bot does not store or distribute copyrighted content. All music is streamed from third-party sources. Users are responsible for ensuring they have the legal right to play requested content.
+MISAKI Bot is provided "as is" without warranties. The bot does not store or distribute copyrighted content. All music is streamed from third-party sources. Users are responsible for ensuring they have the legal right to play requested content.
 
 ---
 
@@ -245,4 +245,5 @@ This bot is private and proprietary. All rights reserved.
 
 **Made with ❤️ for Discord music lovers**
 
-*CREEPER Bot - Explosive Music, Zero Lag* 💥🎵
+*MISAKI Bot - Explosive Music, Zero Lag* 💥🎵
+
