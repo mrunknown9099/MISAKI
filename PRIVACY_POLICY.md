@@ -4,13 +4,13 @@
 
 ## Introduction
 
-This Privacy Policy explains how CREEPER Bot ("the Bot", "we", "us", or "our") collects, uses, and protects your information when you use our Discord bot.
+This Privacy Policy explains how MISAKI Bot ("the Bot", "we", "us", or "our") collects, uses, and protects your information when you use our Discord bot.
 
 ## Information We Collect
 
 ### Automatically Collected Information
 
-When you use CREEPER Bot, we automatically collect:
+When you use MISAKI Bot, we automatically collect:
 
 1. **Server Information**
    - Server ID (Guild ID)
@@ -79,7 +79,7 @@ We MAY share data:
 
 ## Third-Party Services
 
-CREEPER Bot uses the following third-party services:
+MISAKI Bot uses the following third-party services:
 
 1. **Discord API**
    - For all Bot functionality
@@ -117,7 +117,7 @@ You have the right to:
 
 ## Children's Privacy
 
-CREEPER Bot does not knowingly collect information from users under 13 years of age. The Bot is intended for use in accordance with Discord's Terms of Service, which requires users to be at least 13 years old.
+MISAKI Bot does not knowingly collect information from users under 13 years of age. The Bot is intended for use in accordance with Discord's Terms of Service, which requires users to be at least 13 years old.
 
 ## Multi-Server Privacy
 
@@ -144,8 +144,9 @@ If you have questions about this Privacy Policy or your data, please contact the
 
 ## Consent
 
-By using CREEPER Bot, you consent to this Privacy Policy and agree to its terms.
+By using MISAKI Bot, you consent to this Privacy Policy and agree to its terms.
 
 ---
 
 **This Privacy Policy is effective as of November 24, 2025.**
+
