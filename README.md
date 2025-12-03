@@ -5,7 +5,7 @@
 ![Discord.py](https://img.shields.io/badge/discord.py-2.0+-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-**A powerful multi-server Discord music bot with advanced features and intuitive controls.**
+**A Powerful High End Music Bot With Advanced Features And Custom-Playlist System And Intuitive Controls.**
 
 ---
 
@@ -246,4 +246,5 @@ This bot is private and proprietary. All rights reserved.
 **Made with ❤️ for Discord music lovers**
 
 *MISAKI Bot - Explosive Music, Zero Lag* 💥🎵
+
 
