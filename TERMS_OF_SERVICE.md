@@ -2,17 +2,17 @@
 
 **Last Updated: November 24, 2025**
 
-## Welcome to CREEPER Bot
+## Welcome to MISAKI Bot
 
-By inviting and using CREEPER Bot ("the Bot"), you agree to comply with and be bound by the following Terms of Service. Please review these terms carefully.
+By inviting and using MISAKI Bot ("the Bot"), you agree to comply with and be bound by the following Terms of Service. Please review these terms carefully.
 
 ## 1. Acceptance of Terms
 
-By accessing or using CREEPER Bot, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using the Bot.
+By accessing or using MISAKI Bot, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using the Bot.
 
 ## 2. Use License
 
-CREEPER Bot is provided for entertainment and utility purposes. You are granted a limited, non-exclusive, non-transferable license to use the Bot for personal or community server purposes.
+MISAKI Bot is provided for entertainment and utility purposes. You are granted a limited, non-exclusive, non-transferable license to use the Bot for personal or community server purposes.
 
 ### You MAY:
 - Use the Bot in multiple Discord servers
@@ -29,7 +29,7 @@ CREEPER Bot is provided for entertainment and utility purposes. You are granted 
 
 ## 3. Music Playback
 
-CREEPER Bot provides music streaming functionality from various platforms:
+MISAKI Bot provides music streaming functionality from various platforms:
 - You must have the legal right to play requested content
 - The Bot does not store or distribute copyrighted content
 - Music is streamed in real-time from third-party sources
@@ -41,7 +41,7 @@ Please refer to our [Privacy Policy](PRIVACY_POLICY.md) for information on data 
 
 ## 5. Service Availability
 
-- CREEPER Bot is provided "as is" without warranties
+- MISAKI Bot is provided "as is" without warranties
 - We do not guarantee 100% uptime or availability
 - The Bot may undergo maintenance or updates without notice
 - Features may be added, modified, or removed at any time
@@ -56,7 +56,7 @@ Users must:
 
 ## 7. Limitation of Liability
 
-CREEPER Bot and its developers:
+MISAKI Bot and its developers:
 - Are not liable for any damages resulting from Bot usage
 - Are not responsible for content played through the Bot
 - Are not liable for server disruptions or data loss
@@ -83,7 +83,7 @@ We reserve the right to:
 
 ## 11. Third-Party Services
 
-CREEPER Bot integrates with third-party services (Discord, Wavelink, music sources). We are not responsible for:
+MISAKI Bot integrates with third-party services (Discord, Wavelink, music sources). We are not responsible for:
 - Third-party service outages
 - Changes to third-party APIs
 - Third-party terms of service violations
@@ -98,4 +98,5 @@ These Terms shall be governed by and construed in accordance with applicable law
 
 ---
 
-**By using CREEPER Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
+**By using MISAKI Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
+
